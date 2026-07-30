@@ -16,11 +16,11 @@ This repo serves as my organized workspace for all course requirements, includin
 
 ## 👤 Student Information
 
-- Name: Mark Lester N. Dela Cruz
+- Name: Dela Cruz, Mark Lester N.
 
-- Course/Section: BSIT 1C
+- Course/Section: BSIT 4H
 
-- Instructor: (Your Instructor's Name)
+- Instructor: Torres, Jenkielyn Cortez
 
 - School Year: 2026-2027
 
