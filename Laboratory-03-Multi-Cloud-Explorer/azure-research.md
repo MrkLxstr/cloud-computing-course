@@ -43,6 +43,5 @@ Azure can be used for:
 * Enterprise identity management
 
 ## Screenshot
-
-![Azure Homepage] (<img width="1902" height="872" alt="azure-homepage" src="https://github.com/user-attachments/assets/b77af040-0fd6-4d8e-87ff-8195e46844d3" />)
+<img width="1902" height="872" alt="azure-homepage" src="https://github.com/user-attachments/assets/b77af040-0fd6-4d8e-87ff-8195e46844d3" />
 
