@@ -43,5 +43,4 @@ AWS can be used by enterprises for:
 
 ## Screenshot
 
-<img width="1919" height="873" alt="aws-homepage" src="https://github.com/user-attachments/assets/12745632-aa1a-4161-99bf-3ed7de55a464" />
-
+![AWS Homepage](screenshots/aws-homepage.png)
